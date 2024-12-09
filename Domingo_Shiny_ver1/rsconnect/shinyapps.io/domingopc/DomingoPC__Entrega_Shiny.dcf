@@ -1,0 +1,12 @@
+name: DomingoPC__Entrega_Shiny
+title: DomingoPC__Entrega_Shiny
+username: domingopc
+account: domingopc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12199494
+bundleId: 8761993
+url: https://domingopc.shinyapps.io/DomingoPC__Entrega_Shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
